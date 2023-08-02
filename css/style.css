@@ -88,7 +88,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 48px 0;
+    padding: 52px 0;
 }
 
 .projects-content {
@@ -99,7 +99,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    padding: 12px;
+    padding: 10px;
 }
 
 .projects-item {

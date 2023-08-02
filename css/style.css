@@ -106,6 +106,25 @@ body {
     
 }
 
+.contact-container  {
+    background: #29326a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 48px 0;
+}
+
+.contact-content {
+    color: #F1F1F1;
+    width: 100%;
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10;
+}
+
 .footer-container {
     background: #1b1b27;
     display: flex;
@@ -235,6 +254,12 @@ a:hover, a:active {
     font-size: 18px;
     color: #F1F1F1;
     line-height: 1.5;
+}
+
+
+
+.contact-content    {
+    
 }
 
 section h2 {

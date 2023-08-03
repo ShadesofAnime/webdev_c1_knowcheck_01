@@ -54,6 +54,7 @@ body {
     height: 80vh;
     padding: 0;
     margin: 0;
+
 }
 
 .hero-content {
@@ -62,6 +63,10 @@ body {
     text-align: center;
     padding: 24px;
     margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .aboutme-container {
@@ -197,9 +202,9 @@ a:hover, a:active {
     border: 2px solid #333333;
 }
 .hero-content .btn:hover, .hero-content .btn:active {
-    background: #333333;
+    background: #74b44a;
     color: #F1F1F1;
-    border: 2px solid #666666;
+    border: 2px solid #74b44a;
 }
 
 .btn, .btn:visited  {
